@@ -1,11 +1,10 @@
-linux 
-## commands 
-# cd ->
+# ***linux commands***
+## cd ->
   __to change the directory__ 
-# mkdir ->
+## mkdir ->
   __to make a directory__ 
   eg -> mkdir level1 
-# chmod g-r level1  
+## chmod g-r level1  
   -> __removed the read permission from the group__
   __+__ to give permission __-__ to remove the permission 
  -> __u__ for user, __g__ for group, __o__ for others  
