@@ -47,9 +47,9 @@
   -> hard link means that the same i node number is there in direcoty and its sub directory 
 ## ***whoami*** to ask your name!! 
 ## reading inside file 
-  -> __less <filename>__ you can read inside the file, press q for exit 
+  -> __less filename__ you can read inside the file, press q for exit 
 ## get to know type of file 
-  -> file <filename > 
+  -> file filename
 ## timestamp 
   
   
