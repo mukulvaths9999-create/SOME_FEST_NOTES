@@ -44,12 +44,14 @@
   -> __ls -li__  
   __combining the i node and showing all__  
   -> __ls -lia__    
-  -> hard link means that the same i node number is there in direcoty and its sub directory 
+  -> hard link means that the same i node number is there in direcoty and its sub directory   
 ## ***whoami*** to ask your name!! 
 ## reading inside file 
-  -> __less filename__ you can read inside the file, press q for exit 
-## get to know type of file 
-  -> file filename
+  -> __less filename__     
+  --> you can read inside the file, press q for exit   
+## get to know type of file   
+  -> file filename  
+  
 ## timestamp 
   
   
