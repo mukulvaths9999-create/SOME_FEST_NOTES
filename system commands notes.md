@@ -7,6 +7,8 @@ linux
   eg -> mkdir level1 
 # chmod g-r level1  
   -> __removed the read permission from the group__
+  __+__ to give permission __-__ to remove the permission 
  -> __u__ for user, __g__ for group, __o__ for others  
   -> __r__ for read , __w__ for write and **x** for executable 
+  
 #
